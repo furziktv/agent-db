@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+asyncmy==0.2.10
+aiosqlite==0.21.0
+pydantic==2.11.4
+prometheus-client==0.21.1
+cryptography==44.0.3
